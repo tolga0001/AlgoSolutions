@@ -1,0 +1,170 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="bbcb31cf-fdea-44b5-9904-f4c158047ea0" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LeetCodeSolutions.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CoinChange.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CoinChange2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ContainsDuplicate.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/FrogJump.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LengthOfLastWord.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LetterCombinations.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LinkedListCycle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MergeStrings.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/PathSum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ReverseVowels.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SumOfTwo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/UglyNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/fourSum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/isSubsequence.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/isUnique.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/listExercise.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/medianOfTwoSortedList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/printSpiral.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/replaceElementsQuestion.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;customColor&quot;: &quot;&quot;,
+  &quot;associatedIndex&quot;: 6
+}</component>
+  <component name="ProjectId" id="2TyXLg1RD0JT3saObrVKNFKrBak" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="bbcb31cf-fdea-44b5-9904-f4c158047ea0" name="Changes" comment="" />
+      <created>1692016239201</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1692016239201</updated>
+      <workItem from="1692016240379" duration="5934000" />
+      <workItem from="1692121872985" duration="9000" />
+      <workItem from="1693056432572" duration="2544000" />
+      <workItem from="1693213273884" duration="7079000" />
+      <workItem from="1693223849917" duration="30239000" />
+      <workItem from="1693402035145" duration="14412000" />
+      <workItem from="1693419246201" duration="897000" />
+      <workItem from="1693422305865" duration="2334000" />
+      <workItem from="1693431813788" duration="3199000" />
+      <workItem from="1693757107900" duration="3962000" />
+      <workItem from="1696180228080" duration="23511000" />
+      <workItem from="1696768035745" duration="7000" />
+      <workItem from="1699730698654" duration="80000" />
+      <workItem from="1701019595088" duration="65000" />
+      <workItem from="1702531547835" duration="4000" />
+      <workItem from="1702747906585" duration="2755000" />
+      <workItem from="1703167956834" duration="2211000" />
+      <workItem from="1707552194071" duration="6127000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/CoinChange.java</url>
+          <line>24</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/LetterCombinations.java</url>
+          <line>67</line>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/LetterCombinations.java</url>
+          <line>126</line>
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/fourSum.java</url>
+          <line>45</line>
+          <option name="timeStamp" value="7" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/CoinChange2.java</url>
+          <line>22</line>
+          <option name="timeStamp" value="10" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/FrogJump.java</url>
+          <line>42</line>
+          <option name="timeStamp" value="14" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/LinkedListCycle.java</url>
+          <line>38</line>
+          <option name="timeStamp" value="16" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/SumOfTwo.java</url>
+          <line>20</line>
+          <option name="timeStamp" value="17" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/PathSum.java</url>
+          <line>35</line>
+          <option name="timeStamp" value="19" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
