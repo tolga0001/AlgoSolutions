@@ -4,33 +4,13 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="bbcb31cf-fdea-44b5-9904-f4c158047ea0" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LeetCodeSolutions.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/CoinChange.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/CoinChange2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ContainsDuplicate.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/FrogJump.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LengthOfLastWord.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LetterCombinations.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LinkedListCycle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/MergeStrings.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/PathSum.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ReverseVowels.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/SumOfTwo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/UglyNumber.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/fourSum.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/isSubsequence.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/isUnique.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/listExercise.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/medianOfTwoSortedList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/printSpiral.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/replaceElementsQuestion.java" afterDir="false" />
+    <list default="true" id="bbcb31cf-fdea-44b5-9904-f4c158047ea0" name="Changes" comment="my initial leetcode repo">
+      <change afterPath="$PROJECT_DIR$/src/HackerrankQuestion.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/PascalTriangle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/addtwoBinary.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/deneme.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/shiftMatrix.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -70,9 +50,15 @@
     &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
     &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
     &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="" />
+    </key>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -98,8 +84,25 @@
       <workItem from="1702531547835" duration="4000" />
       <workItem from="1702747906585" duration="2755000" />
       <workItem from="1703167956834" duration="2211000" />
-      <workItem from="1707552194071" duration="6127000" />
+      <workItem from="1707552194071" duration="8007000" />
+      <workItem from="1707593094221" duration="3935000" />
+      <workItem from="1707646686852" duration="627000" />
+      <workItem from="1707655100505" duration="2000" />
+      <workItem from="1710092370750" duration="15331000" />
+      <workItem from="1710621301312" duration="2149000" />
+      <workItem from="1711803682185" duration="2282000" />
+      <workItem from="1712044160884" duration="1000" />
+      <workItem from="1712518896852" duration="4648000" />
     </task>
+    <task id="LOCAL-00001" summary="my initial leetcode repo">
+      <option name="closed" value="true" />
+      <created>1707591257306</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1707591257306</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -115,6 +118,10 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="my initial leetcode repo" />
+    <option name="LAST_COMMIT_MESSAGE" value="my initial leetcode repo" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -163,6 +170,26 @@
           <url>file://$PROJECT_DIR$/src/PathSum.java</url>
           <line>35</line>
           <option name="timeStamp" value="19" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/HackerrankQuestion.java</url>
+          <line>3</line>
+          <option name="timeStamp" value="20" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/sorting.java</url>
+          <line>3</line>
+          <option name="timeStamp" value="21" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/PascalTriangle.java</url>
+          <line>22</line>
+          <option name="timeStamp" value="22" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/addtwoBinary.java</url>
+          <line>54</line>
+          <option name="timeStamp" value="23" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
